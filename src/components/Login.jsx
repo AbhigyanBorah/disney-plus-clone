@@ -8,9 +8,9 @@ function Login(props) {
             <div className='content'>
                 <CTA>
                     <CTAlogoOne src='/images/cta-logo-one.svg' alt='logo1' />
-                    <a href="" className='sign-up'>GET ALL THERE</a>
+                    <a href="/sign-up " className='sign-up'>GET ALL THERE</a>
                     <p className='description'>
-                        Get Premier Access to Raya and the Last Dragon for an additional fee with a DisneyAbhi+ subscription. As of 03/26/2022, the price of DisneyAbhi+ and The Disney Bundle will increase by $1.  
+                        Get Premier Access to Raya and the Last Dragon for an additional fee with a DisneyGyan+ subscription. As of 03/26/2022, the price of DisneyGyan+ and The Disney Bundle will increase by $1.  
                     </p>
                     <CTAlogoTwo src='/images/cta-logo-two.png' alt='logo2' />
                 </CTA>
